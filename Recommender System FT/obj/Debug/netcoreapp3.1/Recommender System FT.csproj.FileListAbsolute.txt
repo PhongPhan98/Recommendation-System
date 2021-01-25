@@ -1,0 +1,37 @@
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\Recommender System FT.exe
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\Recommender System FT.deps.json
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\Recommender System FT.runtimeconfig.json
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\Recommender System FT.runtimeconfig.dev.json
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\Recommender System FT.dll
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\Recommender System FT.pdb
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\Recommender System FT.Views.dll
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\Recommender System FT.Views.pdb
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Recommender System FT.csprojAssemblyReference.cache
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Recommender System FT.AssemblyInfoInputs.cache
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Recommender System FT.AssemblyInfo.cs
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Recommender System FT.csproj.CoreCompileInputs.cache
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Recommender System FT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Recommender System FT.RazorAssemblyInfo.cache
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Recommender System FT.RazorAssemblyInfo.cs
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Recommender System FT.TagHelpers.input.cache
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Recommender System FT.TagHelpers.output.cache
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Recommender System FT.RazorCoreGenerate.cache
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Recommender System FT.RazorTargetAssemblyInfo.cache
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Recommender System FT.RazorTargetAssemblyInfo.cs
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Recommender System FT.Views.pdb
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\staticwebassets\Recommender System FT.StaticWebAssets.Manifest.cache
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\staticwebassets\Recommender System FT.StaticWebAssets.xml
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Recommender System FT.dll
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Recommender System FT.pdb
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Recommender System FT.genruntimeconfig.cache
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Recommender System FT.csproj.CopyComplete

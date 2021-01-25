@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Phong Phan\\source\\repos\\Recommender System FT\\Recommender System FT\\Recommender System FT.csproj": {}
+    "C:\\Users\\X1 Carbon\\source\\repos\\Recommendation-System\\Recommender System FT\\Recommender System FT.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Phong Phan\\source\\repos\\Recommender System FT\\Recommender System FT\\Recommender System FT.csproj": {
+    "C:\\Users\\X1 Carbon\\source\\repos\\Recommendation-System\\Recommender System FT\\Recommender System FT.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Phong Phan\\source\\repos\\Recommender System FT\\Recommender System FT\\Recommender System FT.csproj",
+        "projectUniqueName": "C:\\Users\\X1 Carbon\\source\\repos\\Recommendation-System\\Recommender System FT\\Recommender System FT.csproj",
         "projectName": "Recommender System FT",
-        "projectPath": "C:\\Users\\Phong Phan\\source\\repos\\Recommender System FT\\Recommender System FT\\Recommender System FT.csproj",
-        "packagesPath": "C:\\Users\\Phong Phan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Phong Phan\\source\\repos\\Recommender System FT\\Recommender System FT\\obj\\",
+        "projectPath": "C:\\Users\\X1 Carbon\\source\\repos\\Recommendation-System\\Recommender System FT\\Recommender System FT.csproj",
+        "packagesPath": "C:\\Users\\X1 Carbon\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\X1 Carbon\\source\\repos\\Recommendation-System\\Recommender System FT\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Phong Phan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\X1 Carbon\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -55,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
