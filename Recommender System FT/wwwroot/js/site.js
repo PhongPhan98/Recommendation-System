@@ -1,5 +1,7 @@
 ﻿$(document).ready(function () {
+    
     $(".bnt-train").click(function () {
+        setTimeout(function () { $(".loader").hide(); $(".topten").show(); $(".success").show(); }, 3000);  
         $(".main").hide();
         $(".popup-data").show();
     })
@@ -17,3 +19,6 @@
     })
 
 })
+$body = $("body");
+
+
