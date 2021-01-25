@@ -1,0 +1,39 @@
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\Recommender System.exe
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\obj\Debug\netcoreapp3.1\Recommender System.csprojAssemblyReference.cache
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\obj\Debug\netcoreapp3.1\Recommender System.AssemblyInfoInputs.cache
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\obj\Debug\netcoreapp3.1\Recommender System.AssemblyInfo.cs
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\Recommender System.deps.json
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\Recommender System.runtimeconfig.json
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\Recommender System.runtimeconfig.dev.json
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\Recommender System.dll
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\Recommender System.pdb
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\C5.dll
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\MathNet.Numerics.IO.dll
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\MathNet.Numerics.dll
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\MyMediaLite.dll
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\obj\Debug\netcoreapp3.1\Recommender System.csproj.CopyComplete
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\obj\Debug\netcoreapp3.1\Recommender System.dll
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\obj\Debug\netcoreapp3.1\Recommender System.pdb
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\obj\Debug\netcoreapp3.1\Recommender System.genruntimeconfig.cache
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\Microsoft.ML.dll
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\Microsoft.ML.Recommender.dll
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMatrixFactorizationNative.so
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libMatrixFactorizationNative.dylib
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\MatrixFactorizationNative.dll
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\MatrixFactorizationNative.dll
+C:\Users\Phong Phan\source\repos\Recommender System\Recommender System\obj\Debug\netcoreapp3.1\Recommender System.csproj.CoreCompileInputs.cache
