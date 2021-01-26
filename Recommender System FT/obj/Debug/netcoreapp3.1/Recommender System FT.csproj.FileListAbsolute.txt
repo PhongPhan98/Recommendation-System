@@ -35,3 +35,24 @@ C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\
 C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Recommender System FT.pdb
 C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Recommender System FT.genruntimeconfig.cache
 C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\obj\Debug\netcoreapp3.1\Recommender System FT.csproj.CopyComplete
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\Microsoft.ML.Core.dll
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\Microsoft.ML.Data.dll
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\Microsoft.ML.KMeansClustering.dll
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\Microsoft.ML.PCA.dll
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\Microsoft.ML.StandardTrainers.dll
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\Microsoft.ML.Transforms.dll
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\Microsoft.ML.dll
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\Microsoft.ML.CpuMath.dll
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\Microsoft.ML.DataView.dll
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\Microsoft.ML.Recommender.dll
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libLdaNative.so
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libLdaNative.dylib
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\LdaNative.dll
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\LdaNative.dll
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libMatrixFactorizationNative.so
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libMatrixFactorizationNative.dylib
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\MatrixFactorizationNative.dll
+C:\Users\X1 Carbon\source\repos\Recommendation-System\Recommender System FT\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\MatrixFactorizationNative.dll
