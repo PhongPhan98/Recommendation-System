@@ -1,8 +1,5 @@
-﻿
-<body>
+﻿<body>
     <section class="group-main">
-
-
         <div class="main">
             <h3>
                 DEMO RECOMMENDER SYSTEM
@@ -22,9 +19,11 @@
                 <h3 style="display:none;" class="success">
                     Successfully trained data
                 </h3>
+                <hr />
+
                 <div style="display:none" class="chosse-item topten">
-                    <input class="chosse-item-train" placeholder="Nhập ID của Item" />
-                    <button class="bnt-topten bnt">
+                    <input id="chosenID" type="number" class="chosse-item-train" placeholder="Nhập ID của Item" />
+                    <button id="btnGet" class="bnt-topten bnt">
                         Lấy top 10
                     </button>
                 </div>
@@ -33,41 +32,24 @@
         </div>
         <div class="popup-topten" style="display:none;">
             <div class="main-popup-topten">
-                <table class="data-topten ">
-                    <tr>
-                        <th>
-                            Sore
-                        </th>
-                        <th>
-                            Product
-                        </th>
-
-                    </tr>
-                    <tr>
-                        <td></td>
-                        <td></td>
-
-                    </tr>
-                    <tr>
-                        <td></td>
-                        <td></td>
-
-                    </tr>
-                    <tr>
-                        <td></td>
-                        <td></td>
-
-                    </tr>
-                    <tr>
-                        <td></td>
-                        <td></td>
-
-                    </tr>
+                <table id="userTable" class="data-topten ">
+                    <thead>
+                        <tr>
+                            <th style="text-align: center">
+                                Score
+                            </th>
+                            <th style="text-align: center">
+                                Product
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    </tbody>
                 </table>
                 <div class="chosse-item finish">
 
                     <button class="done bnt">
-                        xong
+                        Kết thúc
                     </button>
                 </div>
 
@@ -77,3 +59,37 @@
     </section>
 </body>
 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script type="text/javascript">
+    $("#btnGet").click(function () {
+        var selectedId = document.getElementById("chosenID").value;
+        let ID = parseInt(selectedId);
+            $.ajax({
+                type: 'POST',
+                url: '/Home/Predict',
+                data: { id: ID },
+                dataType: 'JSON',
+                success: function (response) {
+                    var len = response.length;
+                    for (var i = 0; i < len; i++) {
+                        var score = response[i].score;
+                        var product = response[i].product;
+
+                        var tr_str = "<tr>" +
+                            "<td align='center'>" + score + "</td>" +
+                            "<td align='center'>" + product + "</td>" +
+                            "</tr>";
+                        $("#userTable tbody").append(tr_str);
+                    }
+
+                },
+                failure: function (response) {
+                    alert("Thất bại");
+                },
+                error: function (response) {
+                    alert("Lỗi");
+                }
+            })
+        }
+      )
+</script>

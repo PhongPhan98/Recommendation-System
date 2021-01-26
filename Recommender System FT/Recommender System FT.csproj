@@ -5,4 +5,9 @@
     <RootNamespace>Recommender_System_FT</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ML" Version="1.5.4" />
+    <PackageReference Include="Microsoft.ML.Recommender" Version="0.17.4" />
+  </ItemGroup>
+
 </Project>
